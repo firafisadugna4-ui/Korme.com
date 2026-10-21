@@ -1,0 +1,6 @@
+{
+  "name": "korme.com — Wallpapers, Keyboards & Text Styles",
+  "description": "Clean, minimalist hub for offline and online wallpapers, 15+ keyboard customization themes, and text styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
